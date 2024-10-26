@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /build
-Disallow: /dev
-Disallow: /doc
-Disallow: /scripts
-Disallow: /test
+ 
