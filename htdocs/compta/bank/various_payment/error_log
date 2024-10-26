@@ -1,0 +1,20 @@
+[12-Jan-2024 15:26:48 UTC] PHP Warning:  Undefined variable $toselect in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 370
+[12-Jan-2024 15:26:48 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:26:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:26:48 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:26:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:52:59 UTC] PHP Warning:  Undefined variable $toselect in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 370
+[12-Jan-2024 15:52:59 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:52:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:52:59 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:52:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:53:02 UTC] PHP Warning:  Undefined variable $toselect in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 370
+[12-Jan-2024 15:53:02 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:53:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:53:02 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:53:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:53:07 UTC] PHP Warning:  Undefined variable $toselect in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 370
+[12-Jan-2024 15:53:07 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 537
+[12-Jan-2024 15:53:07 UTC] PHP Warning:  Undefined array key "project" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634
+[12-Jan-2024 15:53:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/bank/various_payment/list.php on line 634

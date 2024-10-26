@@ -1,0 +1,1028 @@
+[10-Jan-2024 12:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_brico10' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 12:03:57 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_brico10' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 12:09:40 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_brico10' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 12:16:05 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_brico10' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 12:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_brico10' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 13:06:21 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[10-Jan-2024 13:06:21 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[10-Jan-2024 13:06:21 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[10-Jan-2024 13:06:21 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[10-Jan-2024 13:06:21 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[10-Jan-2024 13:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 13:06:25 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[10-Jan-2024 13:06:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[10-Jan-2024 13:06:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[10-Jan-2024 13:06:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[10-Jan-2024 13:06:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[10-Jan-2024 13:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[10-Jan-2024 13:13:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[10-Jan-2024 13:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[10-Jan-2024 13:13:52 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[10-Jan-2024 13:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[10-Jan-2024 13:13:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[10-Jan-2024 13:13:54 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[10-Jan-2024 15:33:08 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 15:33:08 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:46:50 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:46:50 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:46:55 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:46:55 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:05 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:05 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:11 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:11 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:40 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:40 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:49 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:47:49 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:48:40 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:48:40 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:48:47 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:48:47 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:49:06 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:49:06 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:49:14 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[10-Jan-2024 21:49:14 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 10:59:56 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 10:59:56 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 11:00:02 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 11:00:02 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:46:29 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:46:29 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:46:44 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:46:44 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:47:47 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:47:47 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:48:13 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:48:13 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:48:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 14:48:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 14:52:45 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:52:45 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:52:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 14:52:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 14:54:38 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:54:38 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 14:54:52 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 14:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 14:55:54 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:55:54 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:55:57 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 14:56:42 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:56:42 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 14:57:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 14:57:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 14:58:15 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:58:15 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 14:58:18 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 14:58:18 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 15:10:00 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:10:00 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:10:20 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:12 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:11:12 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:11:32 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:11:32 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL1" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:33:52 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:33:52 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:34:21 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:34:26 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:34:26 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_x4rBL" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php on line 428
+[11-Jan-2024 15:35:09 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 15:35:09 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 185
+[11-Jan-2024 15:35:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 15:35:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 185
+[11-Jan-2024 15:37:58 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:37:58 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:01 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 15:38:01 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 185
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 185
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 364
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1470
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 446
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 558
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 562
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 572
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 591
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 610
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 558
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 562
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 572
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 591
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 610
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 558
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 562
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 572
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 591
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 610
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 558
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 562
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 572
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 591
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 610
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 558
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 562
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 572
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 591
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 610
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1323
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1327
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1337
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1361
+[11-Jan-2024 15:38:05 UTC] PHP Warning:  Undefined property: pdf_BLx4r::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 1379
+[11-Jan-2024 15:38:50 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:50 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:55 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:55 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:57 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:38:57 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:00 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:00 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:02 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:02 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:44 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:39:44 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: pdf_espadon::$posxweightvol in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 240
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: pdf_espadon::$posxweightvol in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 820
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: pdf_espadon::$posxweightvol in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 821
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: pdf_espadon::$posxqtytoship in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 829
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: pdf_espadon::$posxweightvol in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 829
+[11-Jan-2024 15:40:21 UTC] PHP Warning:  Undefined property: Expedition::$trueVolume in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/expedition/doc/pdf_espadon.modules.php on line 859
+[11-Jan-2024 15:40:53 UTC] PHP Warning:  Undefined array key "" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/delivery/doc/pdf_typhon.modules.php on line 447
+[11-Jan-2024 15:42:28 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:42:28 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:42:48 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:42:48 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:26 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:26 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:30 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:30 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:51 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:51 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:59 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:43:59 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:34 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:47 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:44:48 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:46:37 UTC] PHP Warning:  Undefined property: Entrepot::$type in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/stock/doc/pdf_standard.modules.php on line 734
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 15:47:30 UTC] PHP Warning:  Undefined variable $out in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/ajax.lib.php on line 693
+[11-Jan-2024 18:21:55 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:21:55 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:22:02 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:22:02 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:22:02 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:22:02 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1323
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1327
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1337
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1361
+[11-Jan-2024 18:22:12 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1379
+[11-Jan-2024 18:24:06 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:24:06 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:24:09 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:24:09 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:24:09 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:24:09 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:24:20 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:24:20 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:24:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:24:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:24:44 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:24:44 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:24:44 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:24:44 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:24:54 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$show_bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 176
+[11-Jan-2024 18:24:54 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$blref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 177
+[11-Jan-2024 18:24:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:24:54 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:25:46 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:25:46 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:41:46 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:41:46 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 18:41:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:41:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:41:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:41:58 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:41:58 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:41:58 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 18:42:08 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:42:08 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:42:08 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:42:08 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 18:42:38 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:42:38 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:42:38 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:42:38 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 18:42:41 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:42:41 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:42:46 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_eratosthene.modules.php on line 549
+[11-Jan-2024 18:42:57 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_eratosthene.modules.php on line 549
+[11-Jan-2024 18:43:27 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_eratosthene.modules.php on line 549
+[11-Jan-2024 18:43:51 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:43:51 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:43:51 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:43:51 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 18:46:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:46:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:46:50 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:46:50 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:46:50 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:46:50 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 18:46:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:46:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:47:02 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:47:02 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 18:47:35 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 18:47:35 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 18:47:35 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 18:47:35 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 18:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 19:01:13 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 19:01:13 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 19:01:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:01:16 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 19:02:11 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:02:11 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 19:02:21 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:02:21 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:02:21 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:02:21 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 19:02:26 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:02:26 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 19:08:05 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 19:08:05 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[11-Jan-2024 19:08:11 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:08:11 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1323
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1327
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1337
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1361
+[11-Jan-2024 19:08:28 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1379
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1323
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1327
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1337
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1361
+[11-Jan-2024 19:08:31 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1379
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1323
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1327
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1337
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1361
+[11-Jan-2024 19:08:59 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1379
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 558
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 562
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 572
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 591
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined variable $total_excl_tax in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 610
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1323
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1327
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1337
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1361
+[11-Jan-2024 19:13:24 UTC] PHP Warning:  Undefined property: pdf_x4rBL::$situationinvoice in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1379
+[11-Jan-2024 19:16:06 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:16:06 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[11-Jan-2024 19:16:08 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:16:09 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:16:09 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:16:09 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 19:16:11 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:16:11 UTC] PHP Warning:  Undefined property: Commande::$situation_cycle_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 364
+[11-Jan-2024 19:16:11 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 1470
+[11-Jan-2024 19:16:11 UTC] PHP Warning:  Undefined variable $tab_height in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 446
+[11-Jan-2024 19:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function pdf_getproduct_ref() in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php:537
+Stack trace:
+#0 /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/commande.php(103): pdf_x4rBL->write_file()
+#1 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 537
+[11-Jan-2024 19:16:13 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 185
+[11-Jan-2024 19:16:13 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:51:39 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:51:39 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:51:42 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:51:42 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:53:26 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:53:26 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:53:33 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:53:33 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:54:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:54:25 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:55:31 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:55:31 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:55:38 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[12-Jan-2024 15:55:39 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[12-Jan-2024 15:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[12-Jan-2024 15:55:50 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:55:50 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:55:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:55:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:56:01 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:56:01 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:56:08 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:56:08 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:58:39 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:58:39 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[12-Jan-2024 15:58:42 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:58:42 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:58:42 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[12-Jan-2024 15:58:46 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:58:46 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:58:46 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[12-Jan-2024 15:58:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:58:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:58:48 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[12-Jan-2024 15:58:50 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[12-Jan-2024 15:58:50 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[12-Jan-2024 15:58:50 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[13-Jan-2024 09:52:40 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:52:40 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:53:32 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:53:32 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:54:06 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:54:06 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[13-Jan-2024 09:54:20 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[13-Jan-2024 09:54:20 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 239
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 239
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 240
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 240
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 241
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 241
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined variable $top_shift in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1648
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$incoterm in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 370
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 370
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined variable $bl_prec in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 484
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: FactureLigne::$bl_ref in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/lib/pdf.lib.php on line 1615
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 614
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 643
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 679
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1534
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1568
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$monnaie in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1046
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1155
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1155
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1162
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1162
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1381
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1381
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Undefined property: Conf::$multicurrency in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1382
+[13-Jan-2024 09:54:49 UTC] PHP Warning:  Attempt to read property "enabled" on null in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 1382
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Attempt to read property "date" on string in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/mod_facture_mercure.php on line 167
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4rComplet.modules.php on line 130
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 524
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: pdf_x4rComplet::$version in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 527
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_x4r.modules.php on line 130
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricorefpro.modules.php on line 130
+[13-Jan-2024 09:55:40 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/facture/doc/pdf_bricolocal.modules.php on line 130
+[13-Jan-2024 09:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "pdf_brico10" not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[16-Jan-2024 21:03:43 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:03:43 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:03:50 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:03:50 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:03:53 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:03:53 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:22:30 UTC] PHP Warning:  Undefined property: stdClass::$INVOICE_CATEGORY_OF_OPERATION in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/pdf_other.php on line 193
+[16-Jan-2024 21:52:12 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:52:12 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:54:24 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:54:24 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:57:51 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): Failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:57:51 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-Jan-2024 21:57:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[16-Jan-2024 21:57:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[16-Jan-2024 21:57:58 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[16-Jan-2024 21:59:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_x4rBL.modules.php on line 187
+[16-Jan-2024 21:59:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_einstein.modules.php on line 185
+[16-Jan-2024 21:59:24 UTC] PHP Warning:  Undefined property: stdClass::$PRODUCT_USE_UNITS in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/modules/commande/doc/pdf_BLx4r.modules.php on line 187
+[24-Mar-2024 00:09:22 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[24-Mar-2024 00:09:22 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:05:19 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:05:19 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:41 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:41 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:46 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:46 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:52 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:52 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:59 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[16-May-2024 21:06:59 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:17:06 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:17:06 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:17:14 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:17:14 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:17:18 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[20-May-2024 09:50:56 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:50:56 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:50:59 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:50:59 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[20-May-2024 09:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Jul-2024 17:48:58 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Jul-2024 17:48:58 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:22:27 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:22:27 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:22:30 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:22:30 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:23:58 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:36:31 UTC] PHP Warning:  include_once(/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php): failed to open stream: No such file or directory in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:36:31 UTC] PHP Warning:  include_once(): Failed opening '/home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/compta/facture/facture.class.php' for inclusion (include_path='/home/f9od9hrh3kg1/public_html/htdocs') in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/releve/core/modules/modReleve.class.php on line 30
+[01-Oct-2024 22:36:36 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:36:48 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:37:12 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:38:06 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:40:13 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:41:02 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:44:42 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:47:02 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:47:08 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:47:19 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:47:51 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:49:18 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:49:24 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:52:04 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:52:32 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:52:58 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:53:38 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:54:06 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:57:00 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:57:03 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:57:27 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:57:29 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:57:37 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:58:38 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:58:42 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:58:49 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:58:58 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:59:09 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 22:59:26 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:02:16 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:02:25 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:02:31 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:03:44 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:04:21 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:04:33 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:11:06 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521
+[01-Oct-2024 23:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'pdf_x4rComplet1' not found in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php:521
+Stack trace:
+#0 {main}
+  thrown in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/admin/facture.php on line 521

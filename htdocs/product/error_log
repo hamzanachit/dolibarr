@@ -1,0 +1,6 @@
+[12-Feb-2024 22:47:02 UTC] PHP Warning:  Undefined property: PriceByCustomerLine::$tva_npr in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/product/price.php on line 2404
+[12-Feb-2024 22:47:08 UTC] PHP Warning:  Undefined property: PriceByCustomerLine::$tva_npr in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/product/price.php on line 2404
+[12-Feb-2024 22:47:55 UTC] PHP Warning:  Undefined property: PriceByCustomerLine::$tva_npr in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/product/price.php on line 2404
+[01-Mar-2024 16:22:17 UTC] PHP Warning:  Undefined array key "mainmenu" in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/core/menus/standard/eldy.lib.php on line 722
+[03-May-2024 11:45:51 UTC] PHP Warning:  session_start(): open(/opt/alt/php73/var/lib/php/session/sess_d1b1e8ba10d7fccbf77001989c0fb598, O_RDWR) failed: Disk quota exceeded (122) in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/main.inc.php on line 352
+[03-May-2024 11:45:51 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php73/var/lib/php/session) in /home/f9od9hrh3kg1/public_html/fap1/fap1/htdocs/main.inc.php on line 352
